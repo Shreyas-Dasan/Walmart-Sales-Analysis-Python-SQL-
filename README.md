@@ -1,21 +1,21 @@
 # Walmart-Sales-Analysis-Python-SQL-
-Project Overview
+Project Overview: 
 This project provides a comprehensive analysis of Walmart's sales data using Python (Pandas, Matplotlib, Seaborn) and PostgreSQL. It explores sales performance, customer behavior, product ratings, and revenue trends across branches, cities, and timeframes.
 
-Objectives
+Objectives:
 
   1. Understand sales patterns and customer preferences.
   2. Identify high-performing branches and product categories.
   3. Discover trends in payment methods, busy hours, and revenue distribution.
   4. Generate actionable business insights to support data-driven decisions.
 
-Tools & Technologies
+Tools & Technologies:
 
   1. Python: Data Cleaning, EDA, and Visualization (pandas, matplotlib, seaborn)
   2. PostgreSQL: Structured Query Language (SQL) for advanced business analysis.
   3. Jupyter Notebook: For code exploration and interactive analysis.
 
-Key Insights
+Key Insights:
 
 From Python analysis:
 
